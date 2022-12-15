@@ -40,6 +40,8 @@
 </script>
 
 <style scoped>
+
+@media only screen and (min-width: 992px) {
     .navbar-nav {
         max-width: 1440px;
         height: 40px;
@@ -55,7 +57,8 @@
         align-items: center;
         text-transform: uppercase; 
     }
-    .nav-link:hover{
+}
+    .nav-link:hover {
         color: rgba(43, 172, 227, 1);
         font-weight: bold;
     }
@@ -64,6 +67,21 @@
         font-size: 14px;
         margin-right: 20px
         
+    }
+    @media only screen and (max-width: 992px) {
+        .navbar-nav {
+            padding-left: 20px;
+            margin-right: 20px;
+        }
+        .nav-link {
+            margin-left: 20px;
+        }
+        .nav-item {
+            margin-left: 5px;
+            margin-right: 20px;
+            border-bottom: solid;
+            border-bottom-color: #CCCCCC;
+        }
     }
 
 </style>
