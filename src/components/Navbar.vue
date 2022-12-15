@@ -41,7 +41,6 @@
 
 <style scoped>
     .navbar-nav {
-
         max-width: 1440px;
         height: 40px;
         left: 0px;      
@@ -50,8 +49,8 @@
         top: 170px;
         font: 'Nunito Sans' ; 
         font-style: normal;
-        /*font-size: 14px;
-        line-height: 19px; */
+        /* font-size: 14px; */
+        line-height: 19px; 
         display: flex;
         align-items: center;
         text-transform: uppercase; 
