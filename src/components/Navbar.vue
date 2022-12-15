@@ -41,29 +41,30 @@
 
 <style scoped>
     .navbar-nav {
-        position: absolute;
-        width: 1440px;
+
+        max-width: 1440px;
         height: 40px;
-        left: 0px;
-        top: 170px;
-        background: #F6F6F6;        
-        width: 1440px;
+        left: 0px;      
         height: 40px;
-        left: 0px;
+        margin-left: 300px;
         top: 170px;
-        font: 'Nunito Sans' ;
+        font: 'Nunito Sans' ; 
         font-style: normal;
-        font-weight: 900px;
-        font-size: 14px;
-        line-height: 19px;
+        /*font-size: 14px;
+        line-height: 19px; */
         display: flex;
         align-items: center;
-        text-align: center;
-        text-transform: uppercase;
+        text-transform: uppercase; 
     }
     .nav-link:hover{
         color: rgba(43, 172, 227, 1);
         font-weight: bold;
+    }
+    .nav-link {
+        color: black;
+        font-size: 14px;
+        margin-right: 20px
+        
     }
 
 </style>
