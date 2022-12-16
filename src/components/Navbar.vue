@@ -8,7 +8,7 @@
         
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <!----XL BREAKPOINT------>
-            <div class="container d-none d-xl-block d-xxl-none" style="padding-left:200px">
+            <div class="container d-none d-xl-block d-xxl-none" style="margin-left:275px">
                 <ul class="navbar-nav" id="navbar-wrapper">
                     <li class="nav-item">
                         <a href="#" class="nav-link">HOME</a>
@@ -35,7 +35,7 @@
             </div>
             <!----LG BREAKPOINT------>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <div class="container d-none d-lg-block d-xl-none">
+                <div class="container d-none d-lg-block d-xl-none" style="margin-left:100px">
                     <ul class="navbar-nav" id="navbar-wrapper">
                         <li class="nav-item">
                             <a href="#" class="nav-link">HOME</a>
@@ -169,7 +169,7 @@
         margin-right: 20px
         
     }
-    @media only screen and (max-width: 992px) {
+    @media only screen and (max-width: 990px) {
         .nav-link {
             margin-left: 5px;
         }
