@@ -26,12 +26,11 @@ import Nav from './components/Navbar.vue'
   <Nav />
   <div class="d-none d-md-block d-sm-block d-lg-none">
     <div class="col-md-6 col-sm-8">
-        <div class="d-flex flex-row">
-          <div style="padding-top:10px"><img src="./assets/tireb.png"></div>
+        <div class="d-flex flex-row mx-2 px-2">
+          <div style="margin-top:10px"><img src="./assets/tireb.png"></div>
           <div class="fw-bold" style="padding-top:20px"><h2>(905) 793-1881</h2></div>
         </div>  
     </div>
-
       <div class="col-lg-3">
         <div class="bg-light" id="cartInfo">
           <p>DYNAMIC MOTOR SPORTS INC</p>
@@ -41,10 +40,9 @@ import Nav from './components/Navbar.vue'
           </div>
         </div>
       </div>
-
   </div>
     <div class="d-block d-sm-none">
-      <div class="col-12 px-4">
+      <div class="col-12 mx-4">
         <div class="d-flex flex-row">
           <div style="padding-top:10px"><img src="./assets/tireb.png"></div>
           <div class="fw-bold ms-5" style="padding-top:20px"><h2>(905) 793-1881</h2></div>
