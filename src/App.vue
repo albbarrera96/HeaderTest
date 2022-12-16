@@ -4,6 +4,7 @@ import Nav from './components/Navbar.vue'
 </script>
 
 <template>
+  <!-----HEADER AND LOGO FULLSCREEN ------>
   <div class="main d-none d-xl-block d-xxl-none d-lg-block">
     <div class="row" style="margin-bottom" id="TopHeader">
       <div class="col-lg-9" style="margin-top:20px">
@@ -24,6 +25,7 @@ import Nav from './components/Navbar.vue'
     </div>
   </div>
   <Nav />
+  <!--------MD-------->
   <div class="d-none d-md-block d-sm-block d-lg-none">
     <div class="col-md-6 col-sm-8">
         <div class="d-flex flex-row mx-2 px-2">
@@ -41,6 +43,7 @@ import Nav from './components/Navbar.vue'
         </div>
       </div>
   </div>
+  <!-------SM---------->
     <div class="d-block d-sm-none">
       <div class="col-12 mx-4">
         <div class="d-flex flex-row">
@@ -58,8 +61,7 @@ import Nav from './components/Navbar.vue'
           </div>
         </div>
       </div>
-
-  </div>
+    </div>
 
   <RouterView />
 </template>
