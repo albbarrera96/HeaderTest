@@ -65,7 +65,7 @@ import Nav from './components/Navbar.vue'
       </div>
   </div>
   <!-------SM---------->
-    <div class="d-block d-sm-none">
+    <div class="d-block d-sm-none" style="margin-top:20px">
       <div class="col-12 mx-4">
         <div class="d-flex flex-row">
           <div style="padding-top:10px"><img src="./assets/tireb.png"></div>
