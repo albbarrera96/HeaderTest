@@ -7,7 +7,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <!-----------XXL BREAKPOINT------------>
-                <div class="container d-none d-xxl-block" style="margin-left:650px">
+                <div class="container d-none d-xxl-block" style="margin-left:348px;">
                     <ul class="navbar-nav" id="navbar-wrapper">
                         <li class="nav-item">
                             <a href="#" class="nav-link">HOME</a>
@@ -33,7 +33,7 @@
                     </ul>
                 </div>
                 <!----XL BREAKPOINT------>
-                <div class="container d-none d-xl-block d-xxl-none" style="margin-left:275px">
+                <div class="container d-none d-xl-block d-xxl-none" style="margin-left:250px">
                     <ul class="navbar-nav" id="navbar-wrapper">
                         <li class="nav-item">
                             <a href="#" class="nav-link">HOME</a>
@@ -60,7 +60,7 @@
                 </div>
                 <!----LG BREAKPOINT------>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <div class="container d-none d-lg-block d-xl-none" style="margin-left:100px">
+                    <div class="container d-none d-lg-block d-xl-none" style="margin-left:150px">
                         <ul class="navbar-nav" id="navbar-wrapper">
                             <li class="nav-item">
                                 <a href="#" class="nav-link">HOME</a>
