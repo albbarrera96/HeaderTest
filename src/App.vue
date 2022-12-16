@@ -18,7 +18,7 @@ import Nav from './components/Navbar.vue'
           <div class="bg-light" id="cartInfo" style="margin-top:20px">
             <p style="padding-top:20px">DYNAMIC MOTOR SPORTS INC</p>
             <p class="text-primary" style="font-size:12px; margin-bottom:20px">View Account  |  SIGN OUT</p>
-            <div class="d-grid gap-2 mt-1">
+            <div class="d-grid gap-2">
               <button class="btn btn-success" style="margin-bottom:20px">VIEW CART (1)</button>
             </div>
           </div>
@@ -43,7 +43,6 @@ import Nav from './components/Navbar.vue'
             <button class="btn btn-success" style="margin-bottom:20px">VIEW CART (1)</button>
           </div>
         </div>
-        ESTE ES XL
       </div>
     </div>
   </div>
@@ -54,7 +53,6 @@ import Nav from './components/Navbar.vue'
         <div class="d-flex flex-row mx-2 px-2">
           <div style="margin-top:10px"><img src="./assets/tireb.png"></div>
           <div class="fw-bold" style="padding-top:20px"><h2>(905) 793-1881</h2></div>
-          ESTE ES EL MD
         </div>  
     </div>
       <div class="col-lg-3">
@@ -69,15 +67,13 @@ import Nav from './components/Navbar.vue'
   </div>
   <!-------SM Breakpoint---------->
     <div class="d-block d-sm-none" style="margin-top:20px">
-      <div class="col-12 mx-4">
+      <div class="col-12">
         <div class="d-flex flex-row">
           <div style="padding-top:10px"><img src="./assets/tireb.png"></div>
           <div class="fw-bold ms-5" style="padding-top:20px"><h2>(905) 793-1881</h2></div>
-          ESTE ES EL SM
         </div>
       </div>
-
-      <div class="col-12 px-4">
+      <div class="col-12">
         <div class="bg-light" id="cartInfo">
           <p style="padding-top:20px">DYNAMIC MOTOR SPORTS INC</p>
           <small class="text-primary">View Account  |  SIGN OUT</small>
