@@ -7,7 +7,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <!-----------XXL BREAKPOINT------------>
-                <div class="container d-none d-xxl-block" style="margin-left:348px;">
+                <div class="container d-none d-xxl-block" style="margin-left:348px;margin-right:348px">
                     <ul class="navbar-nav" id="navbar-wrapper">
                         <li class="nav-item">
                             <a href="#" class="nav-link">HOME</a>
