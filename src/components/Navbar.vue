@@ -5,7 +5,9 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <!----XL BREAKPOINT------>
             <div class="container d-none d-xl-block d-xxl-none" style="padding-left:200px">
                 <ul class="navbar-nav" id="navbar-wrapper">
                     <li class="nav-item">
@@ -31,7 +33,7 @@
                     </li>                                
                 </ul>
             </div>
-
+            <!----LG BREAKPOINT------>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <div class="container d-none d-lg-block d-xl-none">
                     <ul class="navbar-nav" id="navbar-wrapper">
@@ -59,7 +61,7 @@
                     </ul>
                 </div>
             </div>
-
+            <!----MD BREAKPOINT------>
             <div class="container d-none d-md-block d-lg-none" style="padding-left:10px">
                 <ul class="navbar-nav" id="navbar-wrapper">
                     <li class="nav-item">
@@ -85,6 +87,7 @@
                     </li>                                
                 </ul>
             </div>
+            <!----SM BREAKPOINT------>
             <div class="container d-none d-sm-block d-md-none" style="padding-left:5px">
                 <ul class="navbar-nav" id="navbar-wrapper">
                     <li class="nav-item">
@@ -110,6 +113,7 @@
                     </li>                                
                 </ul>
             </div>
+            <!----XS BREAKPOINT------>
             <div class="container d-block d-sm-none" style="padding-left:5px">
                 <ul class="navbar-nav" id="navbar-wrapper">
                     <li class="nav-item">
