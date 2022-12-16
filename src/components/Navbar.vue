@@ -5,8 +5,33 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <!-----------XXL BREAKPOINT------------>
+            <div class="container d-none d-xxl-block" style="margin-left:650px">
+                <ul class="navbar-nav" id="navbar-wrapper">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">VEHICLE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">TIRES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">WHEELS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HARDWARE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">CALCULATORS</a>
+                    </li>                                
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">ACCOUNT</a>
+                    </li>                                
+                </ul>
+            </div>
             <!----XL BREAKPOINT------>
             <div class="container d-none d-xl-block d-xxl-none" style="margin-left:275px">
                 <ul class="navbar-nav" id="navbar-wrapper">
