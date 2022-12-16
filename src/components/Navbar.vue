@@ -6,32 +6,138 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav" id="navbar-wrapper">
-                <li class="nav-item">
-                    <a href="#" class="nav-link">HOME</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">VEHICLE</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">TIRES</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">WHEELS</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">HARDWARE</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">CALCULATORS</a>
-                </li>                                
-                <li class="nav-item">
-                    <a href="#" class="nav-link">ACCOUNT</a>
-                </li>                                
-            </ul>
+            <div class="container d-none d-xl-block d-xxl-none" style="padding-left:200px">
+                <ul class="navbar-nav" id="navbar-wrapper">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">VEHICLE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">TIRES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">WHEELS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HARDWARE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">CALCULATORS</a>
+                    </li>                                
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">ACCOUNT</a>
+                    </li>                                
+                </ul>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="container d-none d-lg-block d-xl-none">
+                    <ul class="navbar-nav" id="navbar-wrapper">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">VEHICLE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">TIRES</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">WHEELS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">HARDWARE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">CALCULATORS</a>
+                        </li>                                
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">ACCOUNT</a>
+                        </li>                                
+                    </ul>
+                </div>
+            </div>
+
+            <div class="container d-none d-md-block d-lg-none" style="padding-left:10px">
+                <ul class="navbar-nav" id="navbar-wrapper">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">VEHICLE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">TIRES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">WHEELS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HARDWARE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">CALCULATORS</a>
+                    </li>                                
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">ACCOUNT</a>
+                    </li>                                
+                </ul>
+            </div>
+            <div class="container d-none d-sm-block d-md-none" style="padding-left:5px">
+                <ul class="navbar-nav" id="navbar-wrapper">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">VEHICLE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">TIRES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">WHEELS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HARDWARE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">CALCULATORS</a>
+                    </li>                                
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">ACCOUNT</a>
+                    </li>                                
+                </ul>
+            </div>
+            <div class="container d-block d-sm-none" style="padding-left:5px">
+                <ul class="navbar-nav" id="navbar-wrapper">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">VEHICLE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">TIRES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">WHEELS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">HARDWARE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">CALCULATORS</a>
+                    </li>                                
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">ACCOUNT</a>
+                    </li>                                
+                </ul>
+            </div>
         </div>
     </div>
-    </nav>
+</nav>
 
 </template>
 
@@ -43,19 +149,10 @@
 
 @media only screen and (min-width: 992px) {
     .navbar-nav {
-        max-width: 1440px;
         height: 40px;
-        left: 0px;      
-        height: 40px;
-        margin-left: 300px;
-        top: 170px;
         font: 'Nunito Sans' ; 
         font-style: normal;
         /* font-size: 14px; */
-        line-height: 19px; 
-        display: flex;
-        align-items: center;
-        text-transform: uppercase; 
     }
 }
     .nav-link:hover {
@@ -69,16 +166,10 @@
         
     }
     @media only screen and (max-width: 992px) {
-        .navbar-nav {
-            padding-left: 20px;
-            margin-right: 20px;
-        }
         .nav-link {
-            margin-left: 20px;
+            margin-left: 5px;
         }
         .nav-item {
-            margin-left: 5px;
-            margin-right: 20px;
             border-bottom: solid;
             border-bottom-color: #CCCCCC;
         }
